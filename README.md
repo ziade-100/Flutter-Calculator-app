@@ -1,3 +1,3 @@
 Flutter Calculator app. 
-I build this app for learning purpose.
-This app will be modified frequently. 
+I built this app for learning purposes.
+The app will be modified frequently. 
